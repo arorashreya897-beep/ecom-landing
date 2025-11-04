@@ -15,7 +15,7 @@ It features a clean UI, smooth layout, and sections for hero, products, and foot
 
 ## 🛠️ Tech Stack
 - *HTML5*
-- *CSS3 (Flexbox, Gradients)*
+- *CSS (Flexbox, Gradients)*
 - *JavaScript*
 
 ---
