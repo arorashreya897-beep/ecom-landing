@@ -1,29 +1,14 @@
-# ShopEase 🛍️
+# Ecommerce Landing Page (Frontend)
 
-A modern and responsive *E-Commerce Landing Page* built using *HTML, CSS, and JavaScript*.  
-It features a clean UI, smooth layout, and sections for hero, products, and footer.
+A responsive ecommerce landing page focusing on clean UI and layout structure.
 
----
+## ✨ Features
+- Modern landing page hero section
+- Product highlights / cards section
+- Responsive layout for mobile and desktop
 
-## 🚀 Features
-- Simple and elegant landing design
-- Fully responsive layout
-- Custom CSS animations
-- Easy to extend for real stores or APIs
+## 🛠 Tech Stack
+HTML, CSS, JavaScript, Git & GitHub
 
----
-
-## 🛠️ Tech Stack
-- *HTML5*
-- *CSS (Flexbox, Gradients)*
-- *JavaScript*
-
----
-
-## 👩‍💻 Developer
-Built with ❤️ by *Shreya Arora*
-
----
-
-## 📄 License
-This project is open-source under the [MIT License](LICENSE).
+## 🔗 Live Demo
+https://arorashreya897.github.io/ecommerce-landing-page/
