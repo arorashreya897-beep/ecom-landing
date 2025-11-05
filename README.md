@@ -11,4 +11,4 @@ A responsive ecommerce landing page focusing on clean UI and layout structure.
 HTML, CSS, JavaScript, Git & GitHub
 
 ## 🔗 Live Demo
-https://arorashreya897.github.io/ecommerce-landing-page/
+ https://arorashreya897-beep.github.io/ecommerce-landing-page/
